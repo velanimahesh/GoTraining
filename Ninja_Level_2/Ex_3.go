@@ -5,8 +5,8 @@ package main
 import "fmt"
 
 const (
-	a int = 2
-	b = "James Bond"
+	a int = 2         // Type constants
+	b = "James Bond"  // un-type constants
 )
 
 func main()  {
