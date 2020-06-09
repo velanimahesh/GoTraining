@@ -22,7 +22,7 @@ var y = 42
 // fmt.Fprintf >>
 /////////////////////////////////////////////
 
-func main()  {
+func main() {
 	// Print value in line
 	fmt.Println(y)
 

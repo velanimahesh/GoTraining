@@ -6,9 +6,10 @@ var z int = 50
 
 // Create your own type as hotdog
 type hotdog int
+
 var a hotdog
 
-func main()  {
+func main() {
 	a = 20
 
 	// Print z and it's type

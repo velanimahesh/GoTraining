@@ -22,7 +22,7 @@ var a string = `I am multiline declaration,
 write multiple line here,
 That's it`
 
-func main()  {
+func main() {
 	// print y
 	fmt.Println(y)
 	// print type of y

@@ -13,7 +13,7 @@ var y = 10
 //nil : same as a null
 var z int
 
-func main()  {
+func main() {
 
 	// Print global variable y
 	fmt.Println(y)
@@ -29,10 +29,10 @@ func main()  {
 	// update the value of z and y
 	y = 99
 	z = 100
-    foo()
+	foo()
 }
 
-func foo()  {
+func foo() {
 	// here y = 99
 	fmt.Println("Foo : y = ", y)
 	// here z = 100

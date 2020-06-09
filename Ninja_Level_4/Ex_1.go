@@ -21,7 +21,7 @@ func main() {
 	//fmt.Println(arr)
 
 	for index, value := range arr {
-		println("ndex = ", index, " & value = ", value)
+		println("Index = ", index, " & value = ", value)
 	}
 
 	fmt.Printf("Type of an ARRAY = %T\n", arr)
